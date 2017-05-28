@@ -16,7 +16,7 @@ body {
 
 
 
-/* BEGIN full screen navigation */
+/* nev bar*/
 
 div.container
 {
@@ -73,16 +73,16 @@ div.topBotomBordersIn a:hover:before, div.topBotomBordersIn a:hover:after
     transform: translateY(0px);
 }
 
+/* nev bar*/
 
 
 
-/*  END full screen navigation */
 
 
 /* first parallax image */
 
 .parallax {
-	background-image: url(img/bannerv1.jpg);
+	background-image: url(../img/bannerv1.jpg);
 
 	min-height: 500px;
     
@@ -102,7 +102,7 @@ div.topBotomBordersIn a:hover:before, div.topBotomBordersIn a:hover:after
 
 
 .parallaxv1 {
-	background-image: url(img/edit2.jpg);
+	background-image: url(../img/edit2.jpg);
 
 	min-height: 500px;
     
@@ -122,7 +122,7 @@ div.topBotomBordersIn a:hover:before, div.topBotomBordersIn a:hover:after
 
 
 .parallaxv2 {
-	background-image: url(img/edit4.jpg);
+	background-image: url(../img/edit4.jpg);
 
 	min-height: 500px;
     
@@ -142,7 +142,7 @@ div.topBotomBordersIn a:hover:before, div.topBotomBordersIn a:hover:after
 
 
 .parallaxv3 {
-	background-image: url(img/edit3.jpg);
+	background-image: url(../img/edit3.jpg);
 
 	min-height: 500px;
     
